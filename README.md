@@ -12,7 +12,10 @@
 1. [Russian Rust Community](https://rust-lang.ru/)
 1. [Asynchronous Programming in Rust](https://doc.rust-lang.ru/async-book/)
 1. [Rocket: Web Framework](https://rocket.rs/v0.5-rc/guide/)
-
+1. [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html)
+1. [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
+1. [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
+1. [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)
 _________________
 
 ### Compile and run file
@@ -27,4 +30,7 @@ $ cargo run
 ```
 
 # HowTo  
-...
+## Open Rust documentation local
+`rustup doc`
+
+
