@@ -16,6 +16,7 @@
 1. [Command line apps in Rust](https://rust-cli.github.io/book/index.html)
 1. [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
 1. [The Embedded Rust Book](https://doc.rust-lang.org/stable/embedded-book/)
+1. [The Rust Reference](https://doc.rust-lang.org/reference/introduction.html)
 _________________
 
 ### Compile and run file
